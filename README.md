@@ -8,4 +8,9 @@ Dashboard Created in TABLEAU
 
 
 Credit: Jabez Paul Clarke
+![image](https://user-images.githubusercontent.com/90130378/161399352-997a0631-4967-4ff7-8cc5-c4f904bd00dc.png)
+![image](https://user-images.githubusercontent.com/90130378/161399384-0925ed10-abd0-427b-b004-1509459c2a46.png)
+![image](https://user-images.githubusercontent.com/90130378/161399436-df8b0931-ae5e-48dc-9436-f9a82560dcfc.png)
+![image](https://user-images.githubusercontent.com/90130378/161399467-b64bd9dd-fc73-46f4-9a43-10a26db7a40b.png)
+
 ![image](https://user-images.githubusercontent.com/90130378/161399005-1beb17d4-be77-4d04-abe4-58208acb06bb.png)
