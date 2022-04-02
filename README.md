@@ -5,7 +5,8 @@ The different leaders at Airbnb want to understand some important insights based
 
 
 Dashboard Created in TABLEAU
-Credit: Jabez Paul Clarke
+
+**Credit:** Jabez Paul Clarke
 
 
 
